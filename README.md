@@ -50,11 +50,11 @@ The frontend is built with **React + TypeScript + Tailwind CSS**, ensuring a cle
 ```
 project-management-platform/
 │
-├── backend/
-│   ├── server.js          # Express server with API routes
+├── for backend
+│   ├── /server       # Express server with API routes
 │   └── package.json       # Server dependencies
 │
-├── frontend/
+├──  for frontend
 │   ├── src/
 │   │   ├── pages/         # Login, Register, Dashboards
 │   │   ├── contexts/      # AuthContext, UserContext, TaskContext, ProjectContext
